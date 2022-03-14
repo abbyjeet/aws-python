@@ -9,6 +9,9 @@ Install boto3-stubs as per the instructions given here:
 https://mypy-boto3.readthedocs.io/en/latest/
 
 
+## Amazon Chalice - Python Serverless Microframework for AWS 
+https://aws.github.io/chalice/
+
 ### How to debug python lambda function in VS Code
 https://blog.thundra.io/debug-your-python-functions-locally
 
